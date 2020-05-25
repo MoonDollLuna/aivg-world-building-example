@@ -1,7 +1,7 @@
 #  Creation of a Visual Novel using Ren'Py to showcase World Building - Practical example
 ## Group 2 - Artificial Intelligence in Videogames 2019/20
 
-Guide **Group 2**, our protagonist, while doing his riveting assignment for class. Will you make them pass the subject, or will they fail and have to retake it?
+Guide **Group 2**, our protagonist, while doing their riveting assignment for class. Will you make them pass the subject, or will they fail and have to retake it?
 
 This game is a simple example of a Visual Novel, created using Ren'Py (a free Visual Novel creation tool), used to showcase the possibilities of world building when using visual novels.
 
